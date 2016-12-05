@@ -7,5 +7,6 @@
     - include_empty: False
     - clean: False
     - makedirs: True
+    - keep_symlinks: True
     - source: salt://nodir
 
