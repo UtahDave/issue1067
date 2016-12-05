@@ -7,5 +7,5 @@
     - include_empty: False
     - clean: False
     - makedirs: True
-    - source: salt://doss
+    - source: salt://nodir
 
